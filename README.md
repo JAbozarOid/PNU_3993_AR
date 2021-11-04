@@ -23,5 +23,5 @@
 
 [1322029_31	کارآموزی](https://github.com/JAbozarOid/PNU_3993_AR/tree/main/Internship)
 <br>
-[1322094_31	پروژه](https://github.com/JAbozarOid/PNU_3991_AR/tree/main/WebProgramming)
+[1322094_31	پروژه](https://github.com/JAbozarOid/PNU_3993_AR/tree/main/Project)
 <br>
