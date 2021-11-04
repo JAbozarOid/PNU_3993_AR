@@ -45,4 +45,4 @@
 <a name="Report"></a>
 ## گزارش کارآموزی
 - گزارش مختصری از آنچه دانشجو در دوره کارآموزشی آموخته است همانند گزارش پروژه پایانی دوره کارشناسی لکن بصورت بسیار مختصر در چند صفحه برای درج در پرونده اریابی دانشجو بایستی ارائه گردد
-    - [گزارش کارآکوزی](https://github.com/JAbozarOid/PNU_3993_AR/blob/main/Internship/Report/Internship%20Report.pdf)
+    - [گزارش کارآموزی](https://github.com/JAbozarOid/PNU_3993_AR/blob/main/Internship/Report/Internship%20Report.pdf)
