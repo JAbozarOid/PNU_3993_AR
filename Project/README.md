@@ -44,7 +44,7 @@
     - [گزارش پروژه](https://github.com/JAbozarOid/PNU_3993_AR/blob/main/Project/Report/Project%20Report.pdf)
   
 <a name="Report"></a>
-## لینک پروژه پروژه
+## لینک پروژه
 - جهت مشاهده پروژه پایانی بر روی لینک زیر کلیک کنید  
     - [لینک پروژه](https://github.com/JAbozarOid/jsamazona_full_ecommerce)  
 
