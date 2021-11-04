@@ -5,7 +5,7 @@
 ---------
 
 # ابوذر رقیب دوست
-- [PNU_3991_AR](https://github.com/JAbozarOid/PNU_3993_AR)
+- [PNU_3993_AR](https://github.com/JAbozarOid/PNU_3993_AR)
 - [Resume](https://jabozaroid.github.io/) 
 - [SOP](https://jabozaroid.github.io/sop)
 - [Certificates](https://jabozaroid.github.io/certificates/certificates.pdf)
