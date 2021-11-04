@@ -21,7 +21,7 @@
 ------------------
 ## فهرست درس ها  
 
-[1322110_01	کارآموزی](https://github.com/JAbozarOid/PNU_3991_AR/tree/main/UserInterfaceDesgin)
+[1322029_31	کارآموزی](https://github.com/JAbozarOid/PNU_3991_AR/tree/main/UserInterfaceDesgin)
 <br>
-[1322100_01	پروژه](https://github.com/JAbozarOid/PNU_3991_AR/tree/main/WebProgramming)
+[1322094_31	پروژه](https://github.com/JAbozarOid/PNU_3991_AR/tree/main/WebProgramming)
 <br>
