@@ -36,14 +36,15 @@
 <a name="Do"></a>
 ## ارائه فرم های پروژه
 - برای دانلود فرم های تکمیل شده بر روی لینک زیر کلیک کنید
-    - [فرم های تکمیل شده پروژه](https://github.com/JAbozarOid/PNU_3993_AR/blob/main/Internship/Forms/Forms.pdf)
+    - [فرم های تکمیل شده پروژه](https://github.com/JAbozarOid/PNU_3993_AR/blob/main/Project/Forms/Forms.pdf)
 
 <a name="Report"></a>
 ## گزارش پروژه
-- گزارش مختصری از آنچه دانشجو در دوره کارآموزشی آموخته است همانند گزارش پروژه پایانی دوره کارشناسی لکن بصورت بسیار مختصر در چند صفحه برای درج در پرونده اریابی دانشجو بایستی ارائه گردد
-    - [گزارش کارآموزی](https://github.com/JAbozarOid/PNU_3993_AR/blob/main/Internship/Report/Internship%20Report.pdf)
+-  گزارش پروژه پایانی دوره کارشناسی بصورت بسیار مختصر در چند صفحه برای درج در پرونده اریابی دانشجو بایستی ارائه گردد
+    - [گزارش پروژه](https://github.com/JAbozarOid/PNU_3993_AR/blob/main/Project/Report/Project%20Report.pdf)
   
 <a name="Report"></a>
 ## لینک پروژه پروژه
-    - [لینک پروژه](https://github.com/JAbozarOid/PNU_3993_AR/blob/main/Internship/Report/Internship%20Report.pdf)  
+- جهت مشاهده پروژه پایانی بر روی لینک زیر کلیک کنید  
+    - [لینک پروژه](https://github.com/JAbozarOid/jsamazona_full_ecommerce)  
 
