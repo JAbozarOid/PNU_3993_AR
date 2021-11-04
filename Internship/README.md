@@ -39,8 +39,8 @@
 - به مدت 220 ساعت از تاریخ ششم تیرماه 1400 تا هفدهم مرداد 1400
 <a name="Forms"></a>
 ## فرمهای دانشگاه
-- لازم است برای نظارت بر نحوه انجام کارها توسط کارآموز، فرمهای تهیه شده توسط دانشگاه بصورت روزانه تکمیل و در پایان کاراموزی تحویل استاد درس شوند
-    - [PNU_BSc_Internship_Forms.zip](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_BSc/Internship/PNU_BSc_Internship_Forms.zip)
+- برای دانلود فرم های تکمیل شده بر روی لینک زیر کلیک کنید
+    - [Internship_Forms](https://github.com/JAbozarOid/PNU_3993_AR/blob/main/Internship/Forms/Forms.pdf)
 
 <a name="Report"></a>
 ## گزارش کارآموزی
